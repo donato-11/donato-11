@@ -18,7 +18,7 @@ Calendario interactivo de eventos astronómicos con visualizaciones 3D, línea d
   - Colaboración en tareas de proyectos internos y aprendizaje de flujo de trabajo profesional con Git.
 - **Proyectos personales** – Aplicaciones y herramientas propias en Python, C++ y web.
 
-## 📫 Conéctame
+## 📫 Contáctame
 [LinkedIn](https://www.linkedin.com/in/donato-flores-886b01362/)
 
 <!--
