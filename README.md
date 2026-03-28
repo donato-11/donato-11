@@ -1,12 +1,12 @@
 # 👋 Hola, soy Donato Flores
 
-Soy desarrollador en formación con experiencia en **Python** y **C++**, y actualmente aprendiendo **JavaScript**, **React**, **HTML**, **CSS**, **Next.js** y **Tailwind CSS**.  
+Soy desarrollador web con experiencia en **JavaScript**, **React**, **HTML**, **CSS**, **Next.js**, **Tailwind CSS** y **NestJS**.  
 Me apasiona el desarrollo web, la astronomía y la geología, y actualmente trabajo en **AstroGlimpse**, un calendario interactivo de eventos astronómicos.
 
 ## 🚀 Tecnologías y herramientas
 - **Lenguajes:** Python, C++, JavaScript
 - **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
-<!-- - **Backend:** Node.js -->
+- **Backend:** Node.js
 - **Otros:** Git, GitHub
 
 <!-- ## 🌌 Proyecto destacado
@@ -16,7 +16,8 @@ Calendario interactivo de eventos astronómicos con visualizaciones 3D, línea d
 ## 💼 Experiencia
 - **Pasantía en Desarrollo Web** – Aglaya Innovation (2025)
   - Colaboración en tareas de proyectos internos y aprendizaje de flujo de trabajo profesional con Git.
-- **Proyectos personales** – Aplicaciones y herramientas propias en Python, C++ y web.
+- **Proyectos personales**
+  - [Fluvi](https://fluvi-web.vercel.app): Gemelo digital de una cuenca hidrográfica local para el análisis de riesgos mediante la             simulación de inundaciones.
 
 ## 📫 Contáctame
 [LinkedIn](https://www.linkedin.com/in/donato-flores-886b01362/)
